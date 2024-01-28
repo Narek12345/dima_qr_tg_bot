@@ -1,4 +1,9 @@
+# Скрытые данные.
 .env
+config.py
+# Виртуальное окружение.
 venv
+# Python байт код.
 __pycache__
+# БД.
 db.sqlite3
